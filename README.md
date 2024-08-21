@@ -1,8 +1,6 @@
 # Eye Break
 
-## Overview
-
-The Eye Break Program helps reduce eye strain by reminding you to take breaks using the 20-20 rule. It darkens your screen brightness every 20 minutes for 20 seconds to remind you to take a break. The current version only works on macOS.
+The Eye Break Program helps prevent [computer vision syndrome](https://en.wikipedia.org/wiki/Computer_vision_syndrome) by reminding you to take breaks using the [20-20 rule](https://www.healthline.com/health/eye-health/20-20-20-rule). It darkens your screen brightness every 20 minutes for 20 seconds to remind you to take a break. The current version only works on macOS.
 
 ## Installation & Running
 
@@ -10,7 +8,7 @@ The Eye Break Program helps reduce eye strain by reminding you to take breaks us
 
    Download and install the `brightness` command from [here](https://github.com/nriley/brightness).
 
-2. **Run the Following Commands in the Terminal**
+2. **Run the following commands in the terminal**
 
    ```bash
    git clone https://github.com/mhdirnjbr/eye-break.git
