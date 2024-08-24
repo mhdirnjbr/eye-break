@@ -1,3 +1,9 @@
+# -----------------------------------------------------------------------------
+# Eye Break Program
+# Licensed under the Apache License 2.0: http://www.apache.org/licenses/LICENSE-2.0
+# Copyright 2024 Mahdi Ranjbar
+# -----------------------------------------------------------------------------
+
 import time
 import subprocess
 import logging
